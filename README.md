@@ -4,6 +4,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5late)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+```text
+Go           2 hrs 41 mins   ███████████████████████░░   92.35 % 
+JavaScript   13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+```
 <!--END_SECTION:waka-->
 
 Contact me on Discord, ``Xurxx#7879`` for help or concerns, if Discord isn't your preference, you can contact me [here](https://github.com/5late/5late/issues) !
