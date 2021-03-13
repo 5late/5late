@@ -4,9 +4,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5late)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 Contact me on Discord, ``Xurxx#7879`` for help or concerns, if Discord isn't your preference, you can contact me [here](https://github.com/5late/5late/issues) !
