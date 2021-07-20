@@ -3,7 +3,7 @@
 
 <details>
     <summary>Archive</summary>
-    <a href="https://github.com/5late/Yoinkbot"><h3>Yoinkbot</h3></a>
+    <a target="_blank" href="https://github.com/5late/Yoinkbot"><h3>Yoinkbot</h3></a>
 </details>
 
 **![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5late&count_private=true&show_icons=true&theme=tokyonight)**
