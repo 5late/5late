@@ -1,4 +1,4 @@
-## Hi there 👋, I'm 5late.
+## Hi there 👋, I'm 5late. See my website [here!](https://me.slatedev.xyz?sf=gh)
 ### I've made a few cool things. I suggest you check out [PepeBot](https://github.com/5late/Pepe-Bot), [Startpage](https://github.com/5late/startpage), [5imulation](https://github.com/5late/5imulation) and [5erver](https://github.com/5late/5erver). 
 
 **![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5late&count_private=true&show_icons=true&theme=tokyonight)**
@@ -28,4 +28,4 @@ HTML         1 hr 50 mins    ██▓░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-Contact me on Discord, ``Xurxx#7879`` for help or concerns, if Discord isn't your preference, you can contact me [here](https://github.com/5late/5late/issues)!
+Contact me on Discord, ``Slate#7879`` for help or concerns, if Discord isn't your preference, you can contact me [here](https://github.com/5late/5late/issues)!
