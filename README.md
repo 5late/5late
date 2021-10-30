@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm 5late. See my website [here!](https://me.slatedev.xyz?sf=gh)
-### I've made a few cool things. I suggest you check out [PepeBot](https://github.com/5late/Pepe-Bot), [Startpage](https://github.com/5late/startpage), [5imulation](https://github.com/5late/5imulation) and [5erver](https://github.com/5late/5erver). 
+### I've made a few cool things. I suggest you check out [Based-Bot](https://github.com/5late/Based-Bot), [Newb-Config](https://github.com/5late/Newb-Config), [my guides](https://github.com/5late/5late.github.io/tree/master/guides/), and [slatedev source](https://github.com/5late/slatedev). 
 
 **![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5late&count_private=true&show_icons=true&theme=tokyonight)**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5late&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
@@ -7,6 +7,12 @@
 <details>
 <summary>Archive</summary>
     
+#### [Pepe-Bot](https://github.com/5late/Pepe-Bot)
+- Pepe Bot is my personal Discord bot used by a few others (mostly maintained)
+#### [5imulation](https://github.com/5late/5imulation)
+- A simulation created to track basic questions about humanity (not maintained)
+#### [5erver](https://github.com/5late/5erver)
+- A rPi-hosted server HTML frontend with a Go backend (partially maintained)
 #### [API-Backend](https://github.com/5late/API-Backend)
 - Used in xdHacks Mini To Hackathon July 2021 (not maintained)
 #### [Yoinkbot](https://github.com/5late/Yoinkbot)
