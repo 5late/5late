@@ -30,4 +30,4 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-Contact me on Discord, ``Slate#7879`` for help or concerns, if Discord isn't your preference, you can contact me [here](https://github.com/5late/5late/issues)!
+Contact me on Discord, ``Slate#0042`` for help or concerns, if Discord isn't your preference, you can contact me [here](https://github.com/5late/5late/issues)!
