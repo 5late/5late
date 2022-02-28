@@ -25,9 +25,11 @@
 ### [Wakatime](https://wakatime.com/@5late) Weekly Stats
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 Contact me on Discord, ``Slate#0042`` for help or concerns, if Discord isn't your preference, you can contact me [here](https://github.com/5late/5late/issues)!
